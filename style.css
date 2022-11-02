@@ -1,0 +1,25 @@
+h1 {
+    font-family: "Yu Gothic UI", sans-serif;
+    font-variation-settings: 'GRAD' 88;
+    background: lightsalmon;
+    height: 50px;
+    text-align: center;
+}
+
+article {
+    text-align: center;
+    font-family: "Comic Sans MS", sans-serif;
+    line-height: 28px;
+}
+
+.box {
+    display: flex;
+    flex-direction: row;
+}
+
+.spacing {
+    background: linear-gradient(lightblue, lightpink);
+    width: auto;
+    height: 300px;
+    letter-spacing: 3px;
+}
